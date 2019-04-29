@@ -6,6 +6,19 @@
 
 ``` bash
 # install
+npm install
+
+# dev
+npm run dev
+
+# guoxb-ui build
+npm run dist
+```
+
+## guoxb-ui Setup
+
+``` bash
+# install
 npm install guoxb-ui --save
 
 # Vue.use()
